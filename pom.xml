@@ -48,4 +48,9 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
+    <properties>
+        <sonar.organization>sanghung4</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>   
 </project>
