@@ -1,0 +1,33 @@
+
+NBrowserOptions#getFireFoxOptions()Lorg/openqa/selenium/firefox/FirefoxOptions;T
+J/Users/sanghung/Documents/SonarCloudTest/src/main/java/BrowserOptions.java! (2"1*Ü
+1! (5jh
+% (30
+%0*org.openqa.selenium.firefox.FirefoxOptions"*org.openqa.selenium.firefox.FirefoxOptions™
+–
+! (5
+%1"4org.openqa.selenium.firefox.FirefoxOptions#<init>()V*N
+
+__unknown_file (2
+0
+%0*org.openqa.selenium.firefox.FirefoxOptionsš
+—
+ (65
+options*org.openqa.selenium.firefox.FirefoxOptions"__id*N
+
+__unknown_file (2
+0
+%0*org.openqa.selenium.firefox.FirefoxOptionsâß
+ (/0
+%2*org.openqa.selenium.firefox.FirefoxOptions"xorg.openqa.selenium.firefox.FirefoxOptions#addArguments([Ljava/lang/String;)Lorg/openqa/selenium/firefox/FirefoxOptions;*S
+
+__unknown_file (7
+5
+options*org.openqa.selenium.firefox.FirefoxOptions*/
+
+__unknown_file (
+start-maximized2!addArguments([Ljava/lang/String;)"C
+ (7
+5
+options*org.openqa.selenium.firefox.FirefoxOptionsB"
+BrowserOptionsH

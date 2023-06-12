@@ -1,0 +1,3 @@
+BrowserOptions#getFireFoxOptions()Lorg/openqa/selenium/firefox/FirefoxOptions;
+org.openqa.selenium.firefox.FirefoxOptions#instance-init#
+org.openqa.selenium.firefox.FirefoxOptions#<init>()V

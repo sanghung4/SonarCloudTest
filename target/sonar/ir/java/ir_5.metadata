@@ -1,0 +1,3 @@
+BrowserOptions#getChromeOptions()Lorg/openqa/selenium/chrome/ChromeOptions;
+org.openqa.selenium.chrome.ChromeOptions#<init>()V
+org.openqa.selenium.chrome.ChromeOptions#instance-init#
