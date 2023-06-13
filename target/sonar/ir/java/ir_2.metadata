@@ -1,2 +1,0 @@
-Utilities#ClickElementByName(Ljava/lang/String;)V
-org.openqa.selenium.By#className(Ljava/lang/String;)Lorg/openqa/selenium/By;

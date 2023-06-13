@@ -1,62 +1,0 @@
-
-YCapabilitiesOptions#getCapabilities(Ljava/lang/String;)Lorg/openqa/selenium/Capabilities;Y
-O/Users/sanghung/Documents/SonarCloudTest/src/main/java/CapabilitiesOptions.java ('"4*ã
-2 ()¿
-¼
- (=0
-%2*org.openqa.selenium.firefox.FirefoxOptions"NBrowserOptions#getFireFoxOptions()Lorg/openqa/selenium/firefox/FirefoxOptions;*.
-
-__unknown_file ("
-BrowserOptionsŒ
-‰
- (='
-CapabilitiesOptions"
-capabilities"__id*N
-
-__unknown_file (2
-0
-%2*org.openqa.selenium.firefox.FirefoxOptions*
-1*Ü
-3 ()º
-·
- (<.
-%1(org.openqa.selenium.chrome.ChromeOptions"KBrowserOptions#getChromeOptions()Lorg/openqa/selenium/chrome/ChromeOptions;*.
-
-__unknown_file ("
-BrowserOptionsŠ
-‡
- (<'
-CapabilitiesOptions"
-capabilities"__id*L
-
-__unknown_file (0
-.
-%1(org.openqa.selenium.chrome.ChromeOptions*
-1*á
-4 (ÉÆ
- (#
-%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*9
-
-__unknown_file (
-
-browserjava.lang.String*&
-
-__unknown_file (
-
-chrome2equals(Ljava/lang/Object;)*
-2
-3*Ç
-1 (
-
- (&
-%3 org.openqa.selenium.Capabilities"__id*E
-
-__unknown_file ()*'
-CapabilitiesOptions"
-capabilities"4
- ((
-&
-%3 org.openqa.selenium.Capabilities:'
-( (6
-browserjava.lang.StringB
-CapabilitiesOptionsH
