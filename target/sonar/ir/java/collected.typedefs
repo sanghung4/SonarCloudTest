@@ -1,19 +1,0 @@
-Å
-	Utilities
-<init>Utilities#<init>()VC
-ClickElementByID/Utilities#ClickElementByID(Ljava/lang/String;)VG
-ClickElementByName1Utilities#ClickElementByName(Ljava/lang/String;)V=
-NavigateToURL,Utilities#NavigateToURL(Ljava/lang/String;)VBaseTestå
-BrowserOptions"
-<init>BrowserOptions#<init>()V_
-getChromeOptionsKBrowserOptions#getChromeOptions()Lorg/openqa/selenium/chrome/ChromeOptions;c
-getFireFoxOptionsNBrowserOptions#getFireFoxOptions()Lorg/openqa/selenium/firefox/FirefoxOptions;java.lang.Object
-BaseTest
-<init>BaseTest#<init>()V,
-SetUp#BaseTest#SetUp(Ljava/lang/String;)V 
-TearDownBaseTest#TearDown()V"
-	TerminateBaseTest#Terminate()V@
-	getDriver3BaseTest#getDriver()Lorg/openqa/selenium/WebDriver;java.lang.Objectæ
-CapabilitiesOptions'
-<init>CapabilitiesOptions#<init>()Vl
-getCapabilitiesYCapabilitiesOptions#getCapabilities(Ljava/lang/String;)Lorg/openqa/selenium/Capabilities;java.lang.Object

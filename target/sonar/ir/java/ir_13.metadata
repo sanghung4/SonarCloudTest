@@ -1,4 +1,0 @@
-CapabilitiesOptions#getCapabilities(Ljava/lang/String;)Lorg/openqa/selenium/Capabilities;
-java.lang.String#equals(Ljava/lang/Object;)Z
-BrowserOptions#getFireFoxOptions()Lorg/openqa/selenium/firefox/FirefoxOptions;
-BrowserOptions#getChromeOptions()Lorg/openqa/selenium/chrome/ChromeOptions;

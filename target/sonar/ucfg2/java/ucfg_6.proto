@@ -1,23 +1,0 @@
-
-3BaseTest#getDriver()Lorg/openqa/selenium/WebDriver;N
-D/Users/sanghung/Documents/SonarCloudTest/src/main/java/BaseTest.java ("1*ç
-1 (e
-c
- (
-%0java.lang.ThreadLocal"__id*4
-
-__unknown_file (*
-
-BaseTest"
-driver°­
- (0
-%1*org.openqa.selenium.remote.RemoteWebDriver"-java.lang.ThreadLocal#get()Ljava/lang/Object;*9
-
-__unknown_file (
-
-%0java.lang.ThreadLocal2get()">
- (2
-0
-%1*org.openqa.selenium.remote.RemoteWebDriverB
-
-BaseTestH
